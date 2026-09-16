@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Anoop 👋
 
-<!--
-**anoop-dryad/anoop-dryad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer at **Dryad Networks** (Eberswalde, Germany), building IoT systems that help detect wildfires early.
 
-Here are some ideas to get you started:
+- 🧠 15+ years in backend engineering, last 10 focused on IoT.
+- 🌱 Currently learning **agentic AI** and building projects around it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+`Java` · `Go` · `Python` · `Spring Boot` · `Gin` · `Django` · `PostgreSQL` · `Snowflake` · `AWS` · `Terraform` · `Kubernetes` · `GitHub Actions`
+
+### Currently
+- Deepening my agentic AI foundations
+- Extending my backend work at Dryad
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anpks/)
