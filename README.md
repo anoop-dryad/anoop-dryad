@@ -6,7 +6,7 @@ Senior Backend Engineer at **Dryad Networks** (Eberswalde, Germany), building Io
 - 🌱 Currently learning **agentic AI** and building projects around it.
 
 ### Stack
-`Java` · `Go` · `Python` · `Spring Boot` · `Gin` · `Django` · `PostgreSQL` · `Snowflake` · `AWS` · `Terraform` · `Kubernetes` · `GitHub Actions`
+`Go` · `Python` · `Rust` · `Java` · `Spring Boot` · `Gin` · `Django` · `PostgreSQL` · `Snowflake` · `AWS` · `Terraform` · `Kubernetes` · `GitHub Actions` · `Flyway`
 
 ### Currently
 - Deepening my agentic AI foundations
