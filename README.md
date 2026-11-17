@@ -2,7 +2,7 @@
 
 Senior Backend Engineer at **Dryad Networks** (Eberswalde, Germany), building IoT systems that help detect wildfires early.
 
-- 🧠 15+ years in backend engineering, last 10 focused on IoT.
+- 🧠 12+ years in backend engineering, last 10 focused on IoT.
 - 🌱 Currently learning **agentic AI** and building projects around it.
 
 ### Stack
